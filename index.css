@@ -1,0 +1,136 @@
+body{
+    background-image: url(bg.jpg);
+}
+h1{
+    background-color: rgb(5, 221, 52);
+    padding: 20px;
+    margin-left: -10PX;
+    margin-right: -8PX;
+    
+}
+.header p{
+    margin-top: -90px;
+    margin-left: 400px;
+    font-size: 20px;
+}
+.nav{
+    background-color: black;
+    padding: 20px;
+    color: white;
+    
+}
+.nav a{
+    margin-left: 100px;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    background: orange;
+    border-radius: 5px;
+}
+.nav a:hover{
+    background: rgb(38, 4, 231);
+}
+input{
+    float: right;
+    size: 2cm;
+
+}
+
+.body{
+    margin-top: 500px;
+}
+h2{
+    color: white;
+    margin-top: 200px;
+    margin-left: 100px;
+    font-size: 50px;
+}
+h3{
+    margin-left: 100px;
+    color: rgb(243, 252, 243);
+    margin-top: -20px;
+}
+.sum p{
+    width: 14cm;
+    height: 3.5cm;
+    background: black;
+    color: white;
+    font-size: 20px;
+    margin-left: 100px;
+    border-radius: 30px;
+}
+.su a{
+    background-color: aqua;
+}
+.pro{
+    width: 10cm;
+    height: 10cm;
+    background: white;
+    border-radius: 20px;
+    
+
+}
+CENTER{
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+}
+.product{
+    background-color: rgb(178, 180, 182);
+}
+#subp{
+   
+    width: 11cm;
+    height: 35cm;
+    float: right;
+    margin-top: -34cm;
+    margin-left: 20px;
+    margin-bottom: 2cm;
+}
+#center{
+    width: 11cm;
+    height: 34cm;
+    float: right;
+    margin-top: -34cm;
+}
+#hr{
+    margin-left: 30px;
+}
+.product #hr p{
+    color: crimson;
+    font-size: 50px;
+    margin-left: 100px;
+}
+.product #hr img{
+    width: 7cm;
+    height: 6cm;
+    border-radius: 30px;
+    margin-left: 50px;
+}
+.product #subp p{
+    color: crimson;
+    font-size: 50px;
+    margin-left: 100px;
+}
+.product #subp img{
+    width: 7cm;
+    height: 6cm;
+    border-radius: 30px;
+    margin-left: 50px;
+}
+.product .pro img{
+    width: 7cm;
+    height: 6cm;
+    border-radius: 30px;
+    margin-left: 50px;
+}
+.product .pro p{
+     color: crimson;
+    font-size: 50px;
+    margin-left: 100px;  
+}
+.conn{
+    margin-top: -55px;
+}
+.header{
+    margin-top: -30px;
+}

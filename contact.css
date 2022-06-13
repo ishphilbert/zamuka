@@ -1,0 +1,43 @@
+*
+footer{
+    padding: 30px;
+    background-color: rgb(0, 0, 0);
+    
+}
+.foot{
+
+    background-color: rgb(0, 5, 5);
+    margin-top: 60px;
+    padding-top: 90px;
+    padding-bottom: 40px;
+    margin-bottom: -150px;
+    margin-right: -7px;
+    margin-left: -8px;
+}
+.footer-left{
+     margin-left: 900px;
+     
+ }
+ .footer-link ul p a{
+     color: aliceblue;
+     
+
+ }
+ .foot .conta .footer-left ul {
+     margin-left: 90px;
+ }
+ .footer-icon{
+     margin-left: 1.8cm;
+     margin-top: -0.5cm;
+ }
+ .footer-icon a{
+     color: rgb(248, 248, 248);
+    
+ }
+ .image{
+     margin-bottom: 100px;
+ }
+ .logo{
+     margin-top: -150px;
+     margin-left: 100px;
+ }
